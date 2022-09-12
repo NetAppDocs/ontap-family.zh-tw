@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="e21da1a4879f106c0966dc2fe45126c0" category="summary">此解決方案可協助您建立儲存基礎架構、以降低成本、加速關鍵工作負載、並保護及保護資料安全。ONTAP</block>
+  <block id="274bc582ca884fc158ea9ac9f79f9067" category="doc">產品文件ONTAP</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
+  <block id="caea8340e2d186a540518d08602aa065" category="sidebar">自動化</block>
+  <block id="198010d8bf8a3ff0f084ffd059a9a1da" category="sidebar">資料管理</block>
+  <block id="5866b98c049a53ea6dc7f50f9349f434" category="sidebar">資料移轉</block>
+  <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">資料保護</block>
+  <block id="d685640410801eb03bb5dcb58186458f" category="sidebar">系統</block>
+  <block id="253b40ae359ba25b56231803430c4873" category="sidebar">ONTAP</block>
+  <block id="9523e2611916570d7f12959f26121afb" category="sidebar">使用NetApp CLI和最新版本的《系統管理程式》（更新版本）、在ONTAP 您的資料中心部署及管理功能。ONTAP ONTAP ONTAP</block>
+  <block id="391aea2b8a642f755fa9fc56deaf7f9d" category="sidebar">自動化ONTAP</block>
+  <block id="cd0da2f9fb1b99c1f4461a4e987db162" category="sidebar">使用REST API和支援技術、自動化ONTAP 部署及管理您的靜態儲存系統ONTAP 。</block>
+  <block id="4e562da2b893fe742016a3ccfd5b1e84" category="sidebar">指令ONTAP</block>
+  <block id="eba31e011522d2a0e8531d2b46a4b64d" category="sidebar">深入瞭解ONTAP 您可在CLI中使用的命令。</block>
+  <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
+  <block id="cbcc6364d2b3c7edb3a0d41c8e5f1f9f" category="sidebar">利用陣列式叢集技術搭配同步複寫功能、提供持續可用度、保護您的儲存設備。</block>
+  <block id="353534d94bfe5cda4a518ae399d604c2" category="sidebar">不再需要使用本技術AFF FAS</block>
+  <block id="0491d39c17c58e82c7523e82200a4f42" category="sidebar">使用「功能區和功能區」文件頁面、尋找有關如何安裝、維護及升級您的畫面區、以及叢集和儲存交換器的資訊。AFF FAS AFF FAS</block>
+  <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
+  <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">部署ONTAP 一套虛擬的解決方法、讓雲端儲存設備更經濟實惠、更聰明、更符合法規要求、更安全。</block>
+  <block id="49e3dd7d4b1caa914dbba9cd07313728" category="sidebar">《環管系統參考資料》ONTAP</block>
+  <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">深入瞭解ONTAP 《事件訊息系統》（EMS）活動。</block>
+  <block id="79e721357e358d77c4700c25c863fc37" category="sidebar">SAN主機組態ONTAP</block>
+  <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">針對ONTAP NVMe、iSCSI和FC傳輸協定設定支援的SAN主機。</block>
+  <block id="2e641d75d103df9a37ad7a7a9d2e632e" category="sidebar">經典版系統管理程式ONTAP</block>
+  <block id="e2d007a557f8e11dbba3c27363a83bd6" category="sidebar">針對《不適用的系統管理程式》介面、使用不同的配置。ONTAP ONTAP</block>
+  <block id="99be5fa77d38c7d9e875422bad8e7925" category="sidebar">流程7-Mode轉換ONTAP</block>
+  <block id="21cbfb811e4dbccffe41f111d35806c8" category="sidebar">將資料從舊有的7-mode移轉至現代化的叢集式儲存平台。</block>
+  <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">物件外部LUN匯入ONTAP</block>
+  <block id="34f1e4137ff927efa23d8e07e433f9eb" category="sidebar">將LUN從協力廠商陣列和7-mode系統移轉至現代化的NetApp儲存設備。</block>
+  <block id="3a3a5cd068731551120f43f37950768b" category="sidebar">ONTAP Select</block>
+  <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">在ONTAP 執行VMware ESXi Hypervisor的各種市售硬體伺服器上部署以軟體定義的儲存應用裝置。</block>
+  <block id="f9aa27ce7eee83622fab3ac30475062f" category="sidebar">ONTAP FlexArray</block>
+  <block id="ab7f0696fcd43dd1d59a411bec1bc90c" category="sidebar">使用陣列LUN、將E系列和協力廠商陣列呈現為ONTAP 由NetApp提供的儲存設備。</block>
+</blocks>
