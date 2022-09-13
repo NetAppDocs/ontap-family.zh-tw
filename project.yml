@@ -1,6 +1,6 @@
 ---
 settings:
-  name: ONTAP Family
+  name: ONTAP
   internal:
     pdf_enabled: true
   prod:
