@@ -12,7 +12,7 @@ sidebar:
   - title: 產品文件ONTAP
     url: "/index.html"
 product-family:
-  search: clouddocs-ontap_main-prod,clouddocs-ontap-cli-9111_main-prod,,clouddocs-ontap-automation_main-prod,clouddocs-ontap-metrocluster_main-prod,clouddocs-ontap-ems-9111_main-prod
+  search: clouddocs-ontap_main-prod,clouddocs-ontap-cli-9111_main-prod,,clouddocs-ontap-automation_main-prod,clouddocs-ontap-metrocluster_main-prod
   sidebarlinks:
   - title: 全部
     tags: all,tag_data_management,tag_automation,tag_systems,tag_data_protection,tag_data_migration
