@@ -144,6 +144,17 @@
               $("#mysidebar").navgoco('toggle', true);
           });
 
+          $(".sidebar-nav-container").on("scroll", function() {
+            $.cookie("sidebarScroll", $(".sidebar-nav-container").scrollTop(), {
+              path    : "/zh-tw/ontap-family"  
+            });
+          });
+          $(function() {
+            if ($.cookie("sidebarScroll")) {
+              $(".sidebar-nav-container").scrollTop($.cookie("sidebarScroll"));
+            }
+          });
+
       });
 
   </script>
@@ -379,6 +390,7 @@
 </script>
 <!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
 <script>$("li.active").parents('li').toggleClass("active");</script>
+<script>$("#mysidebar li.active").parents('ul').css("display","block");</script>
 
 
   </div>
@@ -438,7 +450,7 @@
   data-results-found="找到 {hitCount} 筆結果"
   data-error-message="We're sorry, an issue occurred when fetching your results. Please try again."
   data-error-reset="Reset Search"
-  data-sk-es-pf-indexes="clouddocs-ontap_main-prod,clouddocs-ontap-cli-9111_main-prod,,clouddocs-ontap-automation_main-prod,clouddocs-ontap-metrocluster_main-prod"
+  data-sk-es-pf-indexes=""
   data-flavor=""></div>
   <button class="search-all-icon n-property-bar__search-toggle-button" type="button">
     <svg class="n-icon-search n-property-bar__search-toggle-button-icon" aria-labelledby="title">
@@ -485,11 +497,7 @@
         <div class="n-footer__copyright">
           <ul class="n-footer__copyright-list">
             <li class="n-footer__copyright-link">
-              <span class="n-footer__fine-print">對我們的網站有任何意見或要求？</span>
-              <a target="_self" href="javascript:netapp_mailto()">請與我們聯絡</a>
-            </li>
-            <li class="n-footer__copyright-link">
-              <a href="https://docs.netapp.com/zh-tw/announcements/">公告</a>
+              <a target="_self" href="javascript:netapp_mailto()">傳送有關本網頁的意見反應</a>
             </li>
           </ul>
         </div>
