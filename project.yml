@@ -3,9 +3,9 @@ settings:
   name: ONTAP
   search: ontap,ontap-cli-9111,ontap-automation,ontap-metrocluster
   internal:
-    pdf_enabled: true
+    pdf_enabled: false
   prod:
-    pdf_enabled: true
+    pdf_enabled: false
     harmony_enabled: false
   langs: zh-tw,us-en,ja-jp,zh-cn,ko-kr,fr-fr,de-de
 sidebar:
