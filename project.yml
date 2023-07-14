@@ -33,7 +33,7 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap/index.html
     summary: 使用NetApp CLI和最新版本的《系統管理程式》（更新版本）、在ONTAP 您的資料中心部署及管理功能。ONTAP ONTAP ONTAP
     tags: all, tag_data_management, tag_data_protection
-  - title: 自動化ONTAP
+  - title: ONTAP 自動化
     icon: "./media/icon-api.png"
     url: https://docs.netapp.com/us-en/ontap-automation/index.html
     summary: 使用REST API和支援技術、自動化ONTAP 部署及管理您的靜態儲存系統ONTAP 。
@@ -48,17 +48,22 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap-metrocluster/
     summary: 利用陣列式叢集技術搭配同步複寫功能、提供持續可用度、保護您的儲存設備。
     tags: all, tag_data_protection
-  - title: 不再需要使用本技術AFF FAS
+  - title: AFF A 系列和 C 系列、 FAS 、所有 SAN 陣列和交換器
     icon: "./media/groups_line.png"
     url: https://docs.netapp.com/us-en/ontap-systems-family/
     summary: 使用「功能區和功能區」文件頁面、尋找有關如何安裝、維護及升級您的畫面區、以及叢集和儲存交換器的資訊。AFF FAS AFF FAS
     tags: all, tag_systems
+  - title: ONTAP 技術報告
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/ontap-technical-reports/index.html
+    summary: 深入瞭解 ONTAP 架構、以及如何針對特定工作負載和環境最佳化 ONTAP 。
+    tags: all, tag_data_management, tag_data_protection
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
     summary: 部署ONTAP 一套虛擬的解決方法、讓雲端儲存設備更經濟實惠、更聰明、更符合法規要求、更安全。
     tags: all, tag_data_management, tag_data_protection
-  - title: "《環管系統參考資料》ONTAP"
+  - title: ONTAP EMS 參考
     icon: "./media/cli.png"
     url: https://docs.netapp.com/us-en/ontap-ems-9131/
     summary: 深入瞭解ONTAP 《事件訊息系統》（EMS）活動。
