@@ -31,7 +31,7 @@ product-family:
   - title: ONTAP
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/ontap/index.html
-    summary: 使用NetApp CLI和最新版本的《系統管理程式》（更新版本）、在ONTAP 您的資料中心部署及管理功能。ONTAP ONTAP ONTAP
+    summary: 使用 ONTAP 系統管理員和 ONTAP CLI 、在資料中心內部署及管理 ONTAP 9 資料管理軟體。
     tags: all, tag_data_management, tag_data_protection
   - title: ONTAP 自動化
     icon: "./media/icon-api.png"
@@ -48,10 +48,10 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap-metrocluster/
     summary: 利用陣列式叢集技術搭配同步複寫功能、提供持續可用度、保護您的儲存設備。
     tags: all, tag_data_protection
-  - title: AFF A 系列和 C 系列、 FAS 、所有 SAN 陣列和交換器
+  - title: AFF A 系列和 C 系列、 FAS 、 All Flash SAN 陣列和交換器
     icon: "./media/groups_line.png"
     url: https://docs.netapp.com/us-en/ontap-systems-family/
-    summary: 使用「功能區和功能區」文件頁面、尋找有關如何安裝、維護及升級您的畫面區、以及叢集和儲存交換器的資訊。AFF FAS AFF FAS
+    summary: 瞭解如何安裝、維護及升級 AFF 、 FAS 及 All Flash SAN Array 系統、以及叢集與儲存交換器。
     tags: all, tag_systems
   - title: ONTAP 技術報告
     icon: "./media/icon-onprem.png"

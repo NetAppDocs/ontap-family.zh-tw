@@ -9,13 +9,11 @@
   <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">資料保護</block>
   <block id="d685640410801eb03bb5dcb58186458f" category="sidebar">系統</block>
   <block id="253b40ae359ba25b56231803430c4873" category="sidebar">ONTAP</block>
-  <block id="9523e2611916570d7f12959f26121afb" category="sidebar">使用NetApp CLI和最新版本的《系統管理程式》（更新版本）、在ONTAP 您的資料中心部署及管理功能。ONTAP ONTAP ONTAP</block>
   <block id="cd0da2f9fb1b99c1f4461a4e987db162" category="sidebar">使用REST API和支援技術、自動化ONTAP 部署及管理您的靜態儲存系統ONTAP 。</block>
   <block id="4e562da2b893fe742016a3ccfd5b1e84" category="sidebar">指令ONTAP</block>
   <block id="eba31e011522d2a0e8531d2b46a4b64d" category="sidebar">深入瞭解ONTAP 您可在CLI中使用的命令。</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="cbcc6364d2b3c7edb3a0d41c8e5f1f9f" category="sidebar">利用陣列式叢集技術搭配同步複寫功能、提供持續可用度、保護您的儲存設備。</block>
-  <block id="0491d39c17c58e82c7523e82200a4f42" category="sidebar">使用「功能區和功能區」文件頁面、尋找有關如何安裝、維護及升級您的畫面區、以及叢集和儲存交換器的資訊。AFF FAS AFF FAS</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">部署ONTAP 一套虛擬的解決方法、讓雲端儲存設備更經濟實惠、更聰明、更符合法規要求、更安全。</block>
   <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">深入瞭解ONTAP 《事件訊息系統》（EMS）活動。</block>
@@ -31,9 +29,11 @@
   <block id="f9aa27ce7eee83622fab3ac30475062f" category="sidebar">ONTAP FlexArray</block>
   <block id="ab7f0696fcd43dd1d59a411bec1bc90c" category="sidebar">使用陣列LUN、將E系列和協力廠商陣列呈現為ONTAP 由NetApp提供的儲存設備。</block>
   <block id="3a77755c4eaf7897cda1f7db8e722428" category="sidebar">ONTAP 自動化</block>
-  <block id="3da900eb43adce343acfa768b86ac0f6" category="sidebar">AFF A 系列和 C 系列、 FAS 、所有 SAN 陣列和交換器</block>
   <block id="4434424bd2c1011098a508e85df56b94" category="sidebar">ONTAP 技術報告</block>
   <block id="d723da57939eb06777c90702932db91d" category="sidebar">深入瞭解 ONTAP 架構、以及如何針對特定工作負載和環境最佳化 ONTAP 。</block>
   <block id="27c7ca02055622739ea07ba1243d7683" category="sidebar">ONTAP EMS 參考</block>
   <block id="bc5ec30cd3249636e4dc6b792074194d" category="sidebar">SAN主機組態ONTAP</block>
+  <block id="00b58e662b325b5088592ef47840159f" category="sidebar">使用 ONTAP 系統管理員和 ONTAP CLI 、在資料中心內部署及管理 ONTAP 9 資料管理軟體。</block>
+  <block id="2df876fae9458ec6daf0b2557b22c32d" category="sidebar">AFF A 系列和 C 系列、 FAS 、 All Flash SAN 陣列和交換器</block>
+  <block id="fd386f6a14ab83ad506ab4a919020a9f" category="sidebar">瞭解如何安裝、維護及升級 AFF 、 FAS 及 All Flash SAN Array 系統、以及叢集與儲存交換器。</block>
 </blocks>
