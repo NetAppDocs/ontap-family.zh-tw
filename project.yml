@@ -1,7 +1,7 @@
 ---
 settings:
   name: ONTAP
-  search: ontap,ontap-cli-9131,ontap-automation,ontap-metrocluster
+  search: ontap,ontap-cli-9141,ontap-automation,ontap-metrocluster
   internal:
     pdf_enabled: false
   prod:
@@ -40,7 +40,7 @@ product-family:
     tags: all, tag_automation, tag_data_management
   - title: 指令ONTAP
     icon: "./media/cli.png"
-    url: https://docs.netapp.com/us-en/ontap-cli-9131/
+    url: https://docs.netapp.com/us-en/ontap-cli-9141/
     summary: 深入瞭解ONTAP 您可在CLI中使用的命令。
     tags: all, tag_data_management
   - title: ONTAP MetroCluster
