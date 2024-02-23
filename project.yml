@@ -1,7 +1,7 @@
 ---
 settings:
   name: ONTAP
-  search: ontap,ontap-cli-9141,ontap-automation,ontap-metrocluster
+  search: ontap,ontap-cli-9141,ontap-automation,ontap-metrocluster,ontap-systems-switches,ontap-technical-reports,ontap-sanhost
   internal:
     pdf_enabled: false
   prod:
@@ -73,7 +73,7 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap-sanhost/
     summary: 針對ONTAP NVMe、iSCSI和FC傳輸協定設定支援的SAN主機。
     tags: all, tag_data_management
-  - title: 經典版系統管理程式ONTAP
+  - title: ONTAP 系統管理員（ ONTAP 9.7 及更早版本）
     icon: "./media/config_line.png"
     url: https://docs.netapp.com/us-en/ontap-sm-classic/index.html
     summary: 針對《不適用的系統管理程式》介面、使用不同的配置。ONTAP ONTAP

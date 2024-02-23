@@ -18,7 +18,6 @@
   <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">部署ONTAP 一套虛擬的解決方法、讓雲端儲存設備更經濟實惠、更聰明、更符合法規要求、更安全。</block>
   <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">深入瞭解ONTAP 《事件訊息系統》（EMS）活動。</block>
   <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">針對ONTAP NVMe、iSCSI和FC傳輸協定設定支援的SAN主機。</block>
-  <block id="2e641d75d103df9a37ad7a7a9d2e632e" category="sidebar">經典版系統管理程式ONTAP</block>
   <block id="e2d007a557f8e11dbba3c27363a83bd6" category="sidebar">針對《不適用的系統管理程式》介面、使用不同的配置。ONTAP ONTAP</block>
   <block id="99be5fa77d38c7d9e875422bad8e7925" category="sidebar">流程7-Mode轉換ONTAP</block>
   <block id="21cbfb811e4dbccffe41f111d35806c8" category="sidebar">將資料從舊有的7-mode移轉至現代化的叢集式儲存平台。</block>
@@ -36,4 +35,5 @@
   <block id="00b58e662b325b5088592ef47840159f" category="sidebar">使用 ONTAP 系統管理員和 ONTAP CLI 、在資料中心內部署及管理 ONTAP 9 資料管理軟體。</block>
   <block id="2df876fae9458ec6daf0b2557b22c32d" category="sidebar">AFF A 系列和 C 系列、 FAS 、 All Flash SAN 陣列和交換器</block>
   <block id="fd386f6a14ab83ad506ab4a919020a9f" category="sidebar">瞭解如何安裝、維護及升級 AFF 、 FAS 及 All Flash SAN Array 系統、以及叢集與儲存交換器。</block>
+  <block id="e0ef07c311c3d529bf1db8e5c324d936" category="sidebar">ONTAP 系統管理員（ ONTAP 9.7 及更早版本）</block>
 </blocks>
