@@ -65,7 +65,7 @@ product-family:
     tags: all, tag_data_management, tag_data_protection
   - title: ONTAP EMS 參考
     icon: "./media/cli.png"
-    url: https://docs.netapp.com/us-en/ontap-ems-9131/
+    url: https://docs.netapp.com/us-en/ontap-ems-9141/
     summary: 深入瞭解ONTAP 《事件訊息系統》（EMS）活動。
     tags: all, tag_data_management
   - title: SAN主機組態ONTAP
