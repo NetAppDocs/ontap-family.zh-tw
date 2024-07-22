@@ -24,7 +24,6 @@
   <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">物件外部LUN匯入ONTAP</block>
   <block id="34f1e4137ff927efa23d8e07e433f9eb" category="sidebar">將LUN從協力廠商陣列和7-mode系統移轉至現代化的NetApp儲存設備。</block>
   <block id="3a3a5cd068731551120f43f37950768b" category="sidebar">ONTAP Select</block>
-  <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">在ONTAP 執行VMware ESXi Hypervisor的各種市售硬體伺服器上部署以軟體定義的儲存應用裝置。</block>
   <block id="f9aa27ce7eee83622fab3ac30475062f" category="sidebar">ONTAP FlexArray</block>
   <block id="ab7f0696fcd43dd1d59a411bec1bc90c" category="sidebar">使用陣列LUN、將E系列和協力廠商陣列呈現為ONTAP 由NetApp提供的儲存設備。</block>
   <block id="3a77755c4eaf7897cda1f7db8e722428" category="sidebar">ONTAP 自動化</block>
@@ -36,4 +35,5 @@
   <block id="2df876fae9458ec6daf0b2557b22c32d" category="sidebar">AFF A 系列和 C 系列、 FAS 、 All Flash SAN 陣列和交換器</block>
   <block id="fd386f6a14ab83ad506ab4a919020a9f" category="sidebar">瞭解如何安裝、維護及升級 AFF 、 FAS 及 All Flash SAN Array 系統、以及叢集與儲存交換器。</block>
   <block id="e0ef07c311c3d529bf1db8e5c324d936" category="sidebar">ONTAP 系統管理員（ ONTAP 9.7 及更早版本）</block>
+  <block id="e3084fa571ba538a7020720d0b9f200e" category="sidebar">在執行 VMware ESXi 或 KVM Hypervisor 的各種市售硬體伺服器上、將 ONTAP 部署為軟體定義儲存設備。</block>
 </blocks>
