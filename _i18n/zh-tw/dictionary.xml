@@ -7,8 +7,6 @@
   <block id="198010d8bf8a3ff0f084ffd059a9a1da" category="sidebar">資料管理</block>
   <block id="5866b98c049a53ea6dc7f50f9349f434" category="sidebar">資料移轉</block>
   <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">資料保護</block>
-  <block id="d685640410801eb03bb5dcb58186458f" category="sidebar">系統</block>
-  <block id="253b40ae359ba25b56231803430c4873" category="sidebar">ONTAP</block>
   <block id="cd0da2f9fb1b99c1f4461a4e987db162" category="sidebar">使用REST API和支援技術、自動化ONTAP 部署及管理您的靜態儲存系統ONTAP 。</block>
   <block id="4e562da2b893fe742016a3ccfd5b1e84" category="sidebar">指令ONTAP</block>
   <block id="eba31e011522d2a0e8531d2b46a4b64d" category="sidebar">深入瞭解ONTAP 您可在CLI中使用的命令。</block>
@@ -18,22 +16,20 @@
   <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">部署ONTAP 一套虛擬的解決方法、讓雲端儲存設備更經濟實惠、更聰明、更符合法規要求、更安全。</block>
   <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">深入瞭解ONTAP 《事件訊息系統》（EMS）活動。</block>
   <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">針對ONTAP NVMe、iSCSI和FC傳輸協定設定支援的SAN主機。</block>
-  <block id="e2d007a557f8e11dbba3c27363a83bd6" category="sidebar">針對《不適用的系統管理程式》介面、使用不同的配置。ONTAP ONTAP</block>
-  <block id="99be5fa77d38c7d9e875422bad8e7925" category="sidebar">流程7-Mode轉換ONTAP</block>
-  <block id="21cbfb811e4dbccffe41f111d35806c8" category="sidebar">將資料從舊有的7-mode移轉至現代化的叢集式儲存平台。</block>
   <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">物件外部LUN匯入ONTAP</block>
-  <block id="34f1e4137ff927efa23d8e07e433f9eb" category="sidebar">將LUN從協力廠商陣列和7-mode系統移轉至現代化的NetApp儲存設備。</block>
   <block id="3a3a5cd068731551120f43f37950768b" category="sidebar">ONTAP Select</block>
-  <block id="f9aa27ce7eee83622fab3ac30475062f" category="sidebar">ONTAP FlexArray</block>
-  <block id="ab7f0696fcd43dd1d59a411bec1bc90c" category="sidebar">使用陣列LUN、將E系列和協力廠商陣列呈現為ONTAP 由NetApp提供的儲存設備。</block>
   <block id="3a77755c4eaf7897cda1f7db8e722428" category="sidebar">ONTAP 自動化</block>
   <block id="4434424bd2c1011098a508e85df56b94" category="sidebar">ONTAP 技術報告</block>
   <block id="d723da57939eb06777c90702932db91d" category="sidebar">深入瞭解 ONTAP 架構、以及如何針對特定工作負載和環境最佳化 ONTAP 。</block>
   <block id="27c7ca02055622739ea07ba1243d7683" category="sidebar">ONTAP EMS 參考</block>
   <block id="bc5ec30cd3249636e4dc6b792074194d" category="sidebar">SAN主機組態ONTAP</block>
-  <block id="00b58e662b325b5088592ef47840159f" category="sidebar">使用 ONTAP 系統管理員和 ONTAP CLI 、在資料中心內部署及管理 ONTAP 9 資料管理軟體。</block>
-  <block id="2df876fae9458ec6daf0b2557b22c32d" category="sidebar">AFF A 系列和 C 系列、 FAS 、 All Flash SAN 陣列和交換器</block>
-  <block id="fd386f6a14ab83ad506ab4a919020a9f" category="sidebar">瞭解如何安裝、維護及升級 AFF 、 FAS 及 All Flash SAN Array 系統、以及叢集與儲存交換器。</block>
-  <block id="e0ef07c311c3d529bf1db8e5c324d936" category="sidebar">ONTAP 系統管理員（ ONTAP 9.7 及更早版本）</block>
-  <block id="e3084fa571ba538a7020720d0b9f200e" category="sidebar">在執行 VMware ESXi 或 KVM Hypervisor 的各種市售硬體伺服器上、將 ONTAP 部署為軟體定義儲存設備。</block>
+  <block id="c3169d8d5427c781dfd4185e9fb99915" category="sidebar">硬體系統</block>
+  <block id="d172464251b5fa8d985a50eb969fe6a0" category="sidebar">適用於 AFF 、 ASA 和 FAS 系統的 ONTAP 9</block>
+  <block id="829778bbaf9707cf927c8d8ef55fdbcf" category="sidebar">使用 ONTAP 軟體管理 All Flash FAS 系統、 All Flash SAN Array 系統和 FAS 混合式 Flash 陣列上的資料。</block>
+  <block id="a434e37620d215ce8915132077a4c844" category="sidebar">AFF 、 ASA 和 FAS 系統</block>
+  <block id="f9e98651f17e24643e19d4b3693f7d31" category="sidebar">瞭解如何安裝、維護及升級 All Flash FAS 系統、 All Flash SAN Array 系統和 FAS 混合式 Flash 陣列。</block>
+  <block id="fde1abb5537b55c34521d414267b3f70" category="sidebar">ASA r2 系統</block>
+  <block id="942e7b614fd14bfa73ca3ead7a074727" category="sidebar">安裝 ASA R2 系統、並使用 ONTAP 來管理資料。</block>
+  <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">在ONTAP 執行VMware ESXi Hypervisor的各種市售硬體伺服器上部署以軟體定義的儲存應用裝置。</block>
+  <block id="b2934159aedd460ca247425783b1dc65" category="sidebar">將 LUN 從第三方陣列和 7-Mode 系統移轉至現代化的 NetApp 儲存設備。</block>
 </blocks>

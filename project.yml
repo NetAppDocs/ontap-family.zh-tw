@@ -15,86 +15,78 @@ sidebar:
 product-family:
   sidebarlinks:
   - title: 全部
-    tags: all,tag_data_management,tag_automation,tag_systems,tag_data_protection,tag_data_migration
+    tags: all
     class: active
   - title: 自動化
-    tags: tag_automation
+    tags: automation
   - title: 資料管理
-    tags: tag_data_management
+    tags: management
   - title: 資料移轉
-    tags: tag_data_migration
+    tags: migration
   - title: 資料保護
-    tags: tag_data_protection
-  - title: 系統
-    tags: tag_systems
+    tags: protection
+  - title: 硬體系統
+    tags: hardware
   tiles:
-  - title: ONTAP
+  - title: 適用於 AFF 、 ASA 和 FAS 系統的 ONTAP 9
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/ontap/index.html
-    summary: 使用 ONTAP 系統管理員和 ONTAP CLI 、在資料中心內部署及管理 ONTAP 9 資料管理軟體。
-    tags: all, tag_data_management, tag_data_protection
-  - title: ONTAP 自動化
-    icon: "./media/icon-api.png"
-    url: https://docs.netapp.com/us-en/ontap-automation/index.html
-    summary: 使用REST API和支援技術、自動化ONTAP 部署及管理您的靜態儲存系統ONTAP 。
-    tags: all, tag_automation, tag_data_management
-  - title: 指令ONTAP
-    icon: "./media/cli.png"
-    url: https://docs.netapp.com/us-en/ontap-cli/
-    summary: 深入瞭解ONTAP 您可在CLI中使用的命令。
-    tags: all, tag_data_management
+    summary: 使用 ONTAP 軟體管理 All Flash FAS 系統、 All Flash SAN Array 系統和 FAS 混合式 Flash
+      陣列上的資料。
+    tags: all, management, protection
+  - title: AFF 、 ASA 和 FAS 系統
+    icon: "./media/groups_line.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-family/
+    summary: 瞭解如何安裝、維護及升級 All Flash FAS 系統、 All Flash SAN Array 系統和 FAS 混合式 Flash
+      陣列。
+    tags: all, hardware
+  - title: ASA r2 系統
+    icon: "./media/groups_line.png"
+    url: https://docs.netapp.com/us-en/asa-r2/index.html
+    summary: 安裝 ASA R2 系統、並使用 ONTAP 來管理資料。
+    tags: all, hardware
   - title: ONTAP MetroCluster
     icon: "./media/metrocluster.png"
     url: https://docs.netapp.com/us-en/ontap-metrocluster/
     summary: 利用陣列式叢集技術搭配同步複寫功能、提供持續可用度、保護您的儲存設備。
-    tags: all, tag_data_protection
-  - title: AFF A 系列和 C 系列、 FAS 、 All Flash SAN 陣列和交換器
-    icon: "./media/groups_line.png"
-    url: https://docs.netapp.com/us-en/ontap-systems-family/
-    summary: 瞭解如何安裝、維護及升級 AFF 、 FAS 及 All Flash SAN Array 系統、以及叢集與儲存交換器。
-    tags: all, tag_systems
-  - title: ONTAP 技術報告
-    icon: "./media/icon-onprem.png"
-    url: https://docs.netapp.com/us-en/ontap-technical-reports/index.html
-    summary: 深入瞭解 ONTAP 架構、以及如何針對特定工作負載和環境最佳化 ONTAP 。
-    tags: all, tag_data_management, tag_data_protection
-  - title: Cloud Volumes ONTAP
-    icon: "./media/icon-cvo.png"
-    url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html
-    summary: 部署ONTAP 一套虛擬的解決方法、讓雲端儲存設備更經濟實惠、更聰明、更符合法規要求、更安全。
-    tags: all, tag_data_management, tag_data_protection
-  - title: ONTAP EMS 參考
-    icon: "./media/cli.png"
-    url: https://docs.netapp.com/us-en/ontap-ems/index.html
-    summary: 深入瞭解ONTAP 《事件訊息系統》（EMS）活動。
-    tags: all, tag_data_management
+    tags: all, protection
   - title: SAN主機組態ONTAP
     icon: "./media/server.png"
     url: https://docs.netapp.com/us-en/ontap-sanhost/
     summary: 針對ONTAP NVMe、iSCSI和FC傳輸協定設定支援的SAN主機。
-    tags: all, tag_data_management
-  - title: ONTAP 系統管理員（ ONTAP 9.7 及更早版本）
-    icon: "./media/config_line.png"
-    url: https://docs.netapp.com/us-en/ontap-system-manager-classic/
-    summary: 針對《不適用的系統管理程式》介面、使用不同的配置。ONTAP ONTAP
-    tags: all, tag_data_management
-  - title: 流程7-Mode轉換ONTAP
-    icon: "./media/transition-tools.png"
-    url: https://docs.netapp.com/us-en/ontap-7mode-transition/
-    summary: 將資料從舊有的7-mode移轉至現代化的叢集式儲存平台。
-    tags: all, tag_data_migration
-  - title: 物件外部LUN匯入ONTAP
-    icon: "./media/transition-tools.png"
-    url: https://docs.netapp.com/us-en/ontap-fli/
-    summary: 將LUN從協力廠商陣列和7-mode系統移轉至現代化的NetApp儲存設備。
-    tags: all, tag_data_migration
+    tags: all, management
+  - title: ONTAP 技術報告
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/ontap-technical-reports/index.html
+    summary: 深入瞭解 ONTAP 架構、以及如何針對特定工作負載和環境最佳化 ONTAP 。
+    tags: all, management, protection
+  - title: 指令ONTAP
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-cli/
+    summary: 深入瞭解ONTAP 您可在CLI中使用的命令。
+    tags: all, management
+  - title: ONTAP EMS 參考
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-ems-9141/
+    summary: 深入瞭解ONTAP 《事件訊息系統》（EMS）活動。
+    tags: all, management
+  - title: ONTAP 自動化
+    icon: "./media/icon-api.png"
+    url: https://docs.netapp.com/us-en/ontap-automation/index.html
+    summary: 使用REST API和支援技術、自動化ONTAP 部署及管理您的靜態儲存系統ONTAP 。
+    tags: all, automation, management
+  - title: Cloud Volumes ONTAP
+    icon: "./media/icon-cvo.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
+    summary: 部署ONTAP 一套虛擬的解決方法、讓雲端儲存設備更經濟實惠、更聰明、更符合法規要求、更安全。
+    tags: all, management, protection
   - title: ONTAP Select
     icon: "./media/server.png"
     url: https://docs.netapp.com/us-en/ontap-select/
-    summary: 在執行 VMware ESXi 或 KVM Hypervisor 的各種市售硬體伺服器上、將 ONTAP 部署為軟體定義儲存設備。
-    tags: all, tag_data_management, tag_data_protection
-  - title: ONTAP FlexArray
-    icon: "./media/cli.png"
-    url: https://docs.netapp.com/us-en/ontap-flexarray/
-    summary: 使用陣列LUN、將E系列和協力廠商陣列呈現為ONTAP 由NetApp提供的儲存設備。
-    tags: all, tag_data_management
+    summary: 在ONTAP 執行VMware ESXi Hypervisor的各種市售硬體伺服器上部署以軟體定義的儲存應用裝置。
+    tags: all, management, protection
+  - title: 物件外部LUN匯入ONTAP
+    icon: "./media/transition-tools.png"
+    url: https://docs.netapp.com/us-en/ontap-fli/
+    summary: 將 LUN 從第三方陣列和 7-Mode 系統移轉至現代化的 NetApp 儲存設備。
+    tags: all, migration
