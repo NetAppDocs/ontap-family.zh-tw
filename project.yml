@@ -67,7 +67,7 @@ product-family:
     tags: all, management
   - title: ONTAP EMS 參考
     icon: "./media/cli.png"
-    url: https://docs.netapp.com/us-en/ontap-ems-9141/
+    url: https://docs.netapp.com/us-en/ontap-ems/
     summary: 深入瞭解ONTAP 《事件訊息系統》（EMS）活動。
     tags: all, management
   - title: ONTAP 自動化
