@@ -1,0 +1,82 @@
+---
+product-family:
+  title: 產品文件ONTAP
+  lead: 此解決方案可協助您建立儲存基礎架構、以降低成本、加速關鍵工作負載、並保護及保護資料安全。ONTAP
+  summary: 此解決方案可協助您建立儲存基礎架構、以降低成本、加速關鍵工作負載、並保護及保護資料安全。ONTAP
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: 自動化
+    tags: automation
+  - title: 資料管理
+    tags: management
+  - title: 資料移轉
+    tags: migration
+  - title: 資料保護
+    tags: protection
+  - title: 硬體系統
+    tags: hardware
+  tiles:
+  - title: 適用於 AFF 、 ASA 和 FAS 系統的 ONTAP 9
+    icon: "./media/icon-onprem.png"
+    url: "../ontap/index.html"
+    summary: 使用 ONTAP 軟體管理 All Flash FAS 系統、 All Flash SAN Array 系統和 FAS 混合式 Flash
+      陣列上的資料。
+    tags: all, management, protection
+  - title: AFF 、 ASA 和 FAS 系統
+    icon: "./media/groups_line.png"
+    url: "../ontap-systems-family/index.html"
+    summary: 瞭解如何安裝、維護及升級 All Flash FAS 系統、 All Flash SAN Array 系統和 FAS 混合式 Flash
+      陣列。
+    tags: all, hardware
+  - title: ASA r2 系統
+    icon: "./media/groups_line.png"
+    url: "../asa-r2/index.html"
+    summary: 安裝 ASA R2 系統、並使用 ONTAP 來管理資料。
+    tags: all, hardware
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: "../ontap-metrocluster/index.html"
+    summary: 利用陣列式叢集技術搭配同步複寫功能、提供持續可用度、保護您的儲存設備。
+    tags: all, protection
+  - title: SAN主機組態ONTAP
+    icon: "./media/server.png"
+    url: "../ontap-sanhost/index.html"
+    summary: 針對ONTAP NVMe、iSCSI和FC傳輸協定設定支援的SAN主機。
+    tags: all, management
+  - title: ONTAP 技術報告
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-technical-reports/index.html"
+    summary: 深入瞭解 ONTAP 架構、以及如何針對特定工作負載和環境最佳化 ONTAP 。
+    tags: all, management, protection
+  - title: 指令ONTAP
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-cli/index.html
+    summary: 深入瞭解ONTAP 您可在CLI中使用的命令。
+    tags: all, management
+  - title: ONTAP EMS 參考
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-ems/index.html
+    summary: 深入瞭解ONTAP 《事件訊息系統》（EMS）活動。
+    tags: all, management
+  - title: ONTAP 自動化
+    icon: "./media/icon-api.png"
+    url: "../ontap-automation/index.html"
+    summary: 使用REST API和支援技術、自動化ONTAP 部署及管理您的靜態儲存系統ONTAP 。
+    tags: all, automation, management
+  - title: Cloud Volumes ONTAP
+    icon: "./media/icon-cvo.png"
+    url: "../cloud-manager-cloud-volumes-ontap/index.html"
+    summary: 部署ONTAP 一套虛擬的解決方法、讓雲端儲存設備更經濟實惠、更聰明、更符合法規要求、更安全。
+    tags: all, management, protection
+  - title: ONTAP Select
+    icon: "./media/server.png"
+    url: "../ontap-select/index.html"
+    summary: 在ONTAP 執行VMware ESXi Hypervisor的各種市售硬體伺服器上部署以軟體定義的儲存應用裝置。
+    tags: all, management, protection
+  - title: 物件外部LUN匯入ONTAP
+    icon: "./media/transition-tools.png"
+    url: "../ontap-fli/index.html"
+    summary: 將 LUN 從第三方陣列和 7-Mode 系統移轉至現代化的 NetApp 儲存設備。
+    tags: all, migration

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="e21da1a4879f106c0966dc2fe45126c0" category="summary">此解決方案可協助您建立儲存基礎架構、以降低成本、加速關鍵工作負載、並保護及保護資料安全。ONTAP</block>
   <block id="274bc582ca884fc158ea9ac9f79f9067" category="doc">產品文件ONTAP</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
   <block id="caea8340e2d186a540518d08602aa065" category="sidebar">自動化</block>
@@ -32,4 +31,5 @@
   <block id="942e7b614fd14bfa73ca3ead7a074727" category="sidebar">安裝 ASA R2 系統、並使用 ONTAP 來管理資料。</block>
   <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">在ONTAP 執行VMware ESXi Hypervisor的各種市售硬體伺服器上部署以軟體定義的儲存應用裝置。</block>
   <block id="b2934159aedd460ca247425783b1dc65" category="sidebar">將 LUN 從第三方陣列和 7-Mode 系統移轉至現代化的 NetApp 儲存設備。</block>
+  <block id="6b5b170d11f85aa7605678eed04a62cf" category="sidebar">此解決方案可協助您建立儲存基礎架構、以降低成本、加速關鍵工作負載、並保護及保護資料安全。ONTAP</block>
 </blocks>
