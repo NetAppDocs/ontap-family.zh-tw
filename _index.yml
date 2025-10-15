@@ -11,8 +11,6 @@ product-family:
     tags: automation
   - title: 資料管理
     tags: management
-  - title: 資料移轉
-    tags: migration
   - title: 資料保護
     tags: protection
   - title: 硬體系統
@@ -29,6 +27,11 @@ product-family:
     url: "../ontap-systems-family/index.html"
     summary: 瞭解如何安裝、維護及升級 All Flash FAS 系統、 All Flash SAN Array 系統和 FAS 混合式 Flash
       陣列。
+    tags: all, hardware
+  - title: AFX 系統
+    icon: "./media/groups_line.png"
+    url: "../ontap-afx/index.html"
+    summary: 安裝您的 AFX 系統並使用ONTAP來管理資料。
     tags: all, hardware
   - title: ASA r2 系統
     icon: "./media/groups_line.png"
@@ -75,8 +78,3 @@ product-family:
     url: "../ontap-select/index.html"
     summary: 在ONTAP 執行VMware ESXi Hypervisor的各種市售硬體伺服器上部署以軟體定義的儲存應用裝置。
     tags: all, management, protection
-  - title: 物件外部LUN匯入ONTAP
-    icon: "./media/transition-tools.png"
-    url: "../ontap-fli/index.html"
-    summary: 將 LUN 從第三方陣列和 7-Mode 系統移轉至現代化的 NetApp 儲存設備。
-    tags: all, migration

@@ -4,7 +4,6 @@
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
   <block id="caea8340e2d186a540518d08602aa065" category="sidebar">自動化</block>
   <block id="198010d8bf8a3ff0f084ffd059a9a1da" category="sidebar">資料管理</block>
-  <block id="5866b98c049a53ea6dc7f50f9349f434" category="sidebar">資料移轉</block>
   <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">資料保護</block>
   <block id="cd0da2f9fb1b99c1f4461a4e987db162" category="sidebar">使用REST API和支援技術、自動化ONTAP 部署及管理您的靜態儲存系統ONTAP 。</block>
   <block id="4e562da2b893fe742016a3ccfd5b1e84" category="sidebar">指令ONTAP</block>
@@ -15,7 +14,6 @@
   <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">部署ONTAP 一套虛擬的解決方法、讓雲端儲存設備更經濟實惠、更聰明、更符合法規要求、更安全。</block>
   <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">深入瞭解ONTAP 《事件訊息系統》（EMS）活動。</block>
   <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">針對ONTAP NVMe、iSCSI和FC傳輸協定設定支援的SAN主機。</block>
-  <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">物件外部LUN匯入ONTAP</block>
   <block id="3a3a5cd068731551120f43f37950768b" category="sidebar">ONTAP Select</block>
   <block id="3a77755c4eaf7897cda1f7db8e722428" category="sidebar">ONTAP 自動化</block>
   <block id="4434424bd2c1011098a508e85df56b94" category="sidebar">ONTAP 技術報告</block>
@@ -30,6 +28,7 @@
   <block id="fde1abb5537b55c34521d414267b3f70" category="sidebar">ASA r2 系統</block>
   <block id="942e7b614fd14bfa73ca3ead7a074727" category="sidebar">安裝 ASA R2 系統、並使用 ONTAP 來管理資料。</block>
   <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">在ONTAP 執行VMware ESXi Hypervisor的各種市售硬體伺服器上部署以軟體定義的儲存應用裝置。</block>
-  <block id="b2934159aedd460ca247425783b1dc65" category="sidebar">將 LUN 從第三方陣列和 7-Mode 系統移轉至現代化的 NetApp 儲存設備。</block>
   <block id="6b5b170d11f85aa7605678eed04a62cf" category="sidebar">此解決方案可協助您建立儲存基礎架構、以降低成本、加速關鍵工作負載、並保護及保護資料安全。ONTAP</block>
+  <block id="9e1c8cf536b61ced9a099cdc8d9a7ea5" category="sidebar">AFX 系統</block>
+  <block id="e187c97468fbf8588e709948e3975e74" category="sidebar">安裝您的 AFX 系統並使用ONTAP來管理資料。</block>
 </blocks>

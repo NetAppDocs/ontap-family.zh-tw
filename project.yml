@@ -1,7 +1,7 @@
 ---
 settings:
   name: ONTAP
-  search: ontap,ontap-cli,ontap-automation,ontap-metrocluster,ontap-systems-switches,ontap-technical-reports,ontap-sanhost,asa-r2
+  search: ontap,ontap-cli,ontap-automation,ontap-metrocluster,ontap-systems-switches,ontap-technical-reports,ontap-sanhost,asa-r2,ontap-afx
   internal:
     pdf_enabled: false
   prod:
