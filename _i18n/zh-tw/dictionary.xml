@@ -27,8 +27,8 @@
   <block id="f9e98651f17e24643e19d4b3693f7d31" category="sidebar">瞭解如何安裝、維護及升級 All Flash FAS 系統、 All Flash SAN Array 系統和 FAS 混合式 Flash 陣列。</block>
   <block id="fde1abb5537b55c34521d414267b3f70" category="sidebar">ASA r2 系統</block>
   <block id="942e7b614fd14bfa73ca3ead7a074727" category="sidebar">安裝 ASA R2 系統、並使用 ONTAP 來管理資料。</block>
-  <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">在ONTAP 執行VMware ESXi Hypervisor的各種市售硬體伺服器上部署以軟體定義的儲存應用裝置。</block>
   <block id="6b5b170d11f85aa7605678eed04a62cf" category="sidebar">此解決方案可協助您建立儲存基礎架構、以降低成本、加速關鍵工作負載、並保護及保護資料安全。ONTAP</block>
   <block id="9e1c8cf536b61ced9a099cdc8d9a7ea5" category="sidebar">AFX 系統</block>
   <block id="e187c97468fbf8588e709948e3975e74" category="sidebar">安裝您的 AFX 系統並使用ONTAP來管理資料。</block>
+  <block id="88d34ce861cf9c76dcc348b6228b0214" category="sidebar">將ONTAP作為軟體定義儲存設備部署在執行 VMware ESXi 或 KVM 虛擬機器管理程式的各種通用硬體伺服器上。</block>
 </blocks>

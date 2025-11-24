@@ -76,5 +76,5 @@ product-family:
   - title: ONTAP Select
     icon: "./media/server.png"
     url: "../ontap-select/index.html"
-    summary: 在ONTAP 執行VMware ESXi Hypervisor的各種市售硬體伺服器上部署以軟體定義的儲存應用裝置。
+    summary: 將ONTAP作為軟體定義儲存設備部署在執行 VMware ESXi 或 KVM 虛擬機器管理程式的各種通用硬體伺服器上。
     tags: all, management, protection
