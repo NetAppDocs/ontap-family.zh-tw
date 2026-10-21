@@ -38,6 +38,10 @@ product-family:
     url: "../ontap-metrocluster/index.html"
     summary: 利用陣列式叢集技術搭配同步複寫功能、提供持續可用度、保護您的儲存設備。
     tags: all, protection
+  - title: ONTAP Mediator
+    url: "../ontap-mediator/index.html"
+    summary: 使用 ONTAP Mediator 監控 MetroCluster IP 和 SnapMirror 作用中同步組態。
+    tags: all, protection
   - title: SAN主機組態ONTAP
     url: "../ontap-sanhost/index.html"
     summary: 針對ONTAP NVMe、iSCSI和FC傳輸協定設定支援的SAN主機。

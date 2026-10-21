@@ -31,4 +31,6 @@
   <block id="9e1c8cf536b61ced9a099cdc8d9a7ea5" category="sidebar">AFX 系統</block>
   <block id="e187c97468fbf8588e709948e3975e74" category="sidebar">安裝您的 AFX 系統並使用ONTAP來管理資料。</block>
   <block id="88d34ce861cf9c76dcc348b6228b0214" category="sidebar">將ONTAP作為軟體定義儲存設備部署在執行 VMware ESXi 或 KVM 虛擬機器管理程式的各種通用硬體伺服器上。</block>
+  <block id="58dc7db50a2e11a9de9e6cc092c59d4d" category="sidebar">ONTAP Mediator</block>
+  <block id="488b90f21bb5d07110e40b75dac5412a" category="sidebar">使用 ONTAP Mediator 監控 MetroCluster IP 和 SnapMirror 作用中同步組態。</block>
 </blocks>
